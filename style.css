@@ -248,76 +248,18 @@ body {
     transform: translateY(0);
   }
 }
-/* @media (max-width: 350px) {
-  .card {
-    width: 95%;
-    height: 35vh;
-  }
-
-  .inside h1 {
-    font-size: 80px;
-    line-height: 80px;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .outside p {
-    font-size: 18px;
-  }
-  #cake{
-    width: 25vw;
-    top: -15vh;
-  }
-  .velas:after,
-.velas:before {
-  
-  height: 3vh;
+.open{
+  height: 30px;
+  width: 50px;
+  background-color: red;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  transform: translate(38.9vh,51vh);
+  border-radius: 3px;
 }
-.velas{
-  top: 22vh;
-}
-.inside{
-  padding: 1vw;
-  line-height: 1;
-  font-size: 15px;
-  
-}
-}
-@media (max-width: 768px) {
-  .card {
-    width: 95%;
-    height: 40vh;
-  }
-
-  .inside h1 {
-    font-size: 80px;
-    line-height: 80px;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .outside p {
-    font-size: 18px;
-  }
-  #cake{
-    width: 25vw;
-    top: -15vh;
-  }
-  .velas:after,
-.velas:before {
-  
-  height: 5vh;
-}
-.velas{
-  top: 22vh;
-}
-.inside{
-  padding: 1vw;
-  line-height: 1;
-  font-size: 15px;
-  
-}
-} */
 
 
 
