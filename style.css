@@ -257,7 +257,7 @@ body {
   justify-content: center;
   align-items: center;
   position: absolute;
-  transform: translate(38.9vh,51vh);
+  transform: translate(270px,350px);
   border-radius: 3px;
 }
 
