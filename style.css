@@ -12,8 +12,8 @@ body {
   height: 400px;
   position: absolute;
   margin: auto;
-  left: 0;
-  right: 0;
+/*   left: 0; */
+  right: 10px;
   top: 0;
   bottom: 0;
   -webkit-perspective: 1200px;
@@ -248,7 +248,7 @@ body {
     transform: translateY(0);
   }
 }
-@media (max-width: 350px) {
+/* @media (max-width: 350px) {
   .card {
     width: 95%;
     height: 35vh;
@@ -317,7 +317,7 @@ body {
   font-size: 15px;
   
 }
-}
+} */
 
 
 
