@@ -1,5 +1,5 @@
 function launchConfetti() {
-    const duration = 4 * 1000; // Duration of the confetti in milliseconds
+    const duration = 8 * 1000; // Duration of the confetti in milliseconds
     const end = Date.now() + duration;
      // Custom renderer for line shapes
 
